@@ -27,13 +27,3 @@ Star Topology.pkt
 Mesh Topology.pkt
 
 Each file can be opened in Cisco Packet Tracer to visualize and run the network simulations.
-
-How to Use
-
-Install Cisco Packet Tracer on your system.
-
-Download or clone this repository.
-
-Open the desired .pkt file in Packet Tracer.
-
-Run the simulation to observe the working of the network.
